@@ -6,11 +6,11 @@ Collect Websites
 <br>
 
 ### 3D MODELS
-Website | Notes
------------- | -------------
-[Free3D](https://free3d.com) | No Account required
-[Clario](https://clara.io/) | Account required: <b>Yes</b> / +Online Modeling App
-[ALL 3DP](https://all3dp.com/) | Account required: No / 3D Printing
+Website | Account Type | Notes
+------------ | ------------- | -------------
+[Free3D](https://free3d.com) | Account required: <b>NO</b> | Notes
+[Clario](https://clara.io/) | Account required: <b>YES</b> | Online Modeling App
+[ALL 3DP](https://all3dp.com/) | Account required: <b>NO</b> | 3D Printing
 [BlendSwap](https://www.blendswap.com) | 
 [Blender Market](https://blendermarket.com/) | 
 [CG Trader](https://www.cgtrader.com) | 
