@@ -5,56 +5,26 @@ Collect Websites
 
 <br>
 
-### COLUMNS
+### 3D MODELS
 Website | Notes
 ------------ | -------------
 [Free3D](https://free3d.com) | No Account required
-
-
-<br>
-
-### COLUMNS
-Website | Link | Notes
------------- | -------------
- | 
-Content in the first column | Content in the second column
-
-
-* []()
-** - NOTE: 
-
-<br>
-
-### 3D Printing
-* [ALL 3DP](https://all3dp.com/)
-
-
+[Clario](https://clara.io/) | Account required: Yes / +Online Modeling App
+[ALL 3DP](https://all3dp.com/) | Account required: No / 3D Printing
+[BlendSwap](https://www.blendswap.com) | 
+[Blender Market](https://blendermarket.com/) | 
+[CG Trader](https://www.cgtrader.com) | 
+[CG Cookie](https://cgcookie.com) | 
+[CAD NAV](https://www.cadnav.com/3d-models/sort-16-1.html) | Account required: No
+[TurboSquid](https://www.turbosquid.com) | 
+[Open3DModel](https://open3dmodel.com) | 
+[SketchFab](https://sketchfab.com/) | 
+[Smithonian](https://3d.si.edu/explore) | Account required: No
 
 
 <br>
 
 
-### Blender
-* [BlendSwap](https://www.blendswap.com)
-* [Blender Market](https://blendermarket.com/)
-* [CG Trader](https://www.cgtrader.com)
-* [CG Cookie](https://cgcookie.com)
-* [CAD NAV](https://www.cadnav.com/3d-models/sort-16-1.html)
-* 
-
-
-<br>
-
-### 3D Modeling
-
-
-
-* [TurboSquid](https://www.turbosquid.com)
-* [Open3DModel](https://open3dmodel.com) Note: Has one of the most robust cataloging systems on this list
-* [Clario](https://clara.io/) Note: Clario is an 3d editing application
-* [SketchFab](https://sketchfab.com/)
-
-<br><br>
 
 
 
