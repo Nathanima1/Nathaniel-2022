@@ -39,4 +39,7 @@ Collect Websites
 - [OneLogin](https://projekt202.onelogin.com/)
 
 
+### GOLF HELP
 
+- [Swing in front of the ball](https://www.youtube.com/watch?v=I6ZzDedxFWA&t=63s)
+- [Hit the ball from the inside](____)
