@@ -4,13 +4,15 @@ Collect Websites
 <br><br>
 
 
-### 3D Modeling
+### Blender
 * [BlendSwap](https://www.blendswap.com)
-* [TurboSquid](https://www.turbosquid.com)
 * [Blender Market](https://blendermarket.com/)
 * [CG Trader](https://www.cgtrader.com)
-* [Blend Swap](____)
+* [Free3D](https://free3d.com)
 
+<br>
+### 3D Modeling
+* [TurboSquid](https://www.turbosquid.com)
 
 <br><br>
 
