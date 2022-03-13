@@ -1,27 +1,41 @@
 # Nathaniel-2022
 Collect Websites
 
-<br><br>
+<br>
+
+### 3D Printing
+* [ALL 3DP](https://all3dp.com/)
+* 
+
+
+
+<br>
 
 
 ### Blender
 * [BlendSwap](https://www.blendswap.com)
 * [Blender Market](https://blendermarket.com/)
 * [CG Trader](https://www.cgtrader.com)
-* [Free3D](https://free3d.com)
 * [CG Cookie](https://cgcookie.com)
+* [CAD NAV](https://www.cadnav.com/3d-models/sort-16-1.html)
 * 
+
 
 <br>
 
 ### 3D Modeling
 
+
+* [Free3D](https://free3d.com)
 * [TurboSquid](https://www.turbosquid.com)
 * [Open3DModel](https://open3dmodel.com)
 * [Clario](https://clara.io/)
 * [SketchFab](https://sketchfab.com/)
 
 <br><br>
+
+
+
 
 
 
