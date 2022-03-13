@@ -11,8 +11,11 @@ Collect Websites
 * [Free3D](https://free3d.com)
 
 <br>
+
 ### 3D Modeling
+
 * [TurboSquid](https://www.turbosquid.com)
+* [Open3D](https://open3dmodel.com)
 
 <br><br>
 
