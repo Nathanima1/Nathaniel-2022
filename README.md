@@ -11,8 +11,11 @@ Website | Account Type | Notes
 [Free3D](https://free3d.com) | Account required: <b>NO</b> | Notes
 [Clario](https://clara.io/) | Account required: <b>YES</b> | Online Modeling App
 [ALL 3DP](https://all3dp.com/) | Account required: <b>NO</b> | 3D Printing
-[BlendSwap](https://www.blendswap.com) | Account required: <b>??</b> | Notes
+[BlendSwap](https://www.blendswap.com) | Account required: <b>??</b> | Registration required: <b>Yes<b>
 [Blender Market](https://blendermarket.com/) | Account required: <b>??</b> | Notes
+[Blender 3D Models](https://www.blender-models.com) | Account required: <b>NO</b> | create account helps
+[3D SKY](https://3dsky.org) | Account required: <b>YES</b> | staggering number of home decor models to download
+
 [CG Trader](https://www.cgtrader.com) | Account required: <b>??</b> | Notes
 [CG Cookie](https://cgcookie.com) | Account required: <b>??</b> | Notes
 [CAD NAV](https://www.cadnav.com/3d-models/sort-16-1.html) | Account required: No | Notes
