@@ -22,8 +22,9 @@ Website | Account Type | Notes
 [TurboSquid](https://www.turbosquid.com) | Account required: <b>??</b> | Notes
 [Open3DModel](https://open3dmodel.com) | Account required: <b>??</b> | Notes
 [SketchFab](https://sketchfab.com/) | Account required: <b>??</b> | Notes
+  
 [Smithonian](https://3d.si.edu/explore) | Account required: No | Notes
-
+[Blogscopia](https://resources.blogscopia.com) | Account required: <b>NO</b> | Ikea-Like Furniture
 
 <br>
 
