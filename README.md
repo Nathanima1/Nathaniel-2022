@@ -15,14 +15,12 @@ Website | Account Type | Notes
 [Blender Market](https://blendermarket.com/) | Account required: <b>??</b> | Notes
 [Blender 3D Models](https://www.blender-models.com) | Account required: <b>NO</b> | create account helps
 [3D SKY](https://3dsky.org) | Account required: <b>YES</b> | staggering number of home decor models to download
-
 [CG Trader](https://www.cgtrader.com) | Account required: <b>??</b> | Notes
 [CG Cookie](https://cgcookie.com) | Account required: <b>??</b> | Notes
 [CAD NAV](https://www.cadnav.com/3d-models/sort-16-1.html) | Account required: No | Notes
 [TurboSquid](https://www.turbosquid.com) | Account required: <b>??</b> | Notes
 [Open3DModel](https://open3dmodel.com) | Account required: <b>??</b> | Notes
 [SketchFab](https://sketchfab.com/) | Account required: <b>??</b> | Notes
-  
 [Smithonian](https://3d.si.edu/explore) | Account required: No | Notes
 [Blogscopia](https://resources.blogscopia.com) | Account required: <b>NO</b> | Ikea-Like Furniture
 
