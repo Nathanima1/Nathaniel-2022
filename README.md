@@ -9,7 +9,7 @@ Collect Websites
 Website | Notes
 ------------ | -------------
 [Free3D](https://free3d.com) | No Account required
-[Clario](https://clara.io/) | Account required: Yes / +Online Modeling App
+[Clario](https://clara.io/) | Account required: <b>Yes</b> / +Online Modeling App
 [ALL 3DP](https://all3dp.com/) | Account required: No / 3D Printing
 [BlendSwap](https://www.blendswap.com) | 
 [Blender Market](https://blendermarket.com/) | 
