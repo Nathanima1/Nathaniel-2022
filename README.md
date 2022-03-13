@@ -3,6 +3,18 @@ Collect Websites
 
 <br>
 
+### COLUMNS
+Website | Link | Notes
+------------ | -------------
+Free3D | https://free3d.com | No Account required
+Content in the first column | Content in the second column
+
+
+* []()
+** - NOTE: 
+
+<br>
+
 ### 3D Printing
 * [ALL 3DP](https://all3dp.com/)
 
@@ -26,8 +38,7 @@ Collect Websites
 ### 3D Modeling
 
 
-* [Free3D](https://free3d.com)
-** - NOTE: No Account required
+
 * [TurboSquid](https://www.turbosquid.com)
 * [Open3DModel](https://open3dmodel.com) Note: Has one of the most robust cataloging systems on this list
 * [Clario](https://clara.io/) Note: Clario is an 3d editing application
