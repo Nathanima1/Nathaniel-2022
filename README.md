@@ -19,3 +19,8 @@ Collect Websites
 
 <br><br>
 
+### PCP ONLINE
+- [CHERYL RICHARDS](https://mychart.texashealth.org/MyChart/)
+
+### PORTFOLIO 2022
+- [PLATTS PORTFOLIO 2022](http://nathanielplatts.com/wp-admin/)
