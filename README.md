@@ -7,23 +7,33 @@ Collect Websites
 
 
 ### HORIZONTAL TIMESHEETS
-- [FIELDGLASS](https://www.fieldglass.net/)
-- [SPRING AHEAD - HORIZONTAL](https://horizontalintegration.springahead.com/)
+- [FieldGlass](https://www.fieldglass.net/)
+- [SpringAheada](https://horizontalintegration.springahead.com/)
 
 ### HORIZONTAL PAYROLL
-- [PAYLOCITY](https://access.paylocity.com/)
-
-
-
+- [Paylocity](https://access.paylocity.com/)
 
 
 <br><br>
 
+
 ### PCP ONLINE
-- [CHERYL RICHARDS](https://mychart.texashealth.org/MyChart/)
+- [Texas Health](https://mychart.texashealth.org/MyChart/)
+
+
+<br><br>
+
 
 ### PORTFOLIO 2022
-- [PLATTS PORTFOLIO 2022](http://nathanielplatts.com/wp-admin/)
+- [Platts Portfolio 2022](http://nathanielplatts.com/wp-admin/)
+
+
+<br><br>
+
 
 ### PROJEKT202
-- [OPEN AIR](https://auth.openair.com/login)
+- [Open Air](https://auth.openair.com/login)
+- [BullHorn](https://sl2-www.bte.bullhornstaffing.com/)
+
+
+
