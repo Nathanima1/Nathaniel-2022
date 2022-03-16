@@ -83,5 +83,5 @@ Project | Effort | Notes
 ### 3D PRINTING - PROJECTS
 
 
-- [!Central Perk](https://www.figma.com/file/PYr2Or36mIdcwndbBz77iB/Wireframing-in-Figma?node-id=0%3A1)<br>
-Free Template after opening Figma
+- [!Central Perk](/images/Central-Perk-diorama.jpg)(https://www.figma.com/file/PYr2Or36mIdcwndbBz77iB/Wireframing-in-Figma?node-id=0%3A1)<br>
+Created with Blender, Cura and AnyCubic Mega S 3D Printer - As a gift for my wife for Christmas
