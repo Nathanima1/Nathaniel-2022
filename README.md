@@ -75,3 +75,13 @@ Project | Effort | Notes
 
 - [Swing in front of the ball](https://www.youtube.com/watch?v=I6ZzDedxFWA&t=63s)
 - [Hit the ball from the inside](https://youtu.be/lf5-CRJBi24)
+  
+
+
+  
+  
+### 3D PRINTING - PROJECTS
+
+
+- [!Central Perk](https://www.figma.com/file/PYr2Or36mIdcwndbBz77iB/Wireframing-in-Figma?node-id=0%3A1)<br>
+Free Template after opening Figma
