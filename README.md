@@ -83,5 +83,9 @@ Project | Effort | Notes
 ### 3D PRINTING - PROJECTS
 
   
-- [![Central Perk](/images/Central-Perk-diorama.jpg)](Central-Perk-diorama.jpg)<br>
+[![Central Perk](/images/Central-Perk-diorama.jpg)](Central-Perk-diorama.jpg)<br>
 Created with Blender, Cura and AnyCubic Mega S 3D Printer - As a gift for my wife for Christmas
+
+<br><br><br><br>
+  
+[![Headset Hanger](/images/headset-hanger.jpg)](headset-hanger.jpg)<br>
