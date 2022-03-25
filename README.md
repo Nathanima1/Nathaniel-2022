@@ -62,6 +62,10 @@ Project | Effort | Notes
 
 ### PORTFOLIO 2022
 - [Platts Portfolio 2022](http://nathanielplatts.com/wp-admin/)
+  
+  Scott's Address
+  504 Sundrop Dr
+  Rockwall, TX 75087
 
 
 <br><br>
